@@ -16,7 +16,11 @@ Wuhan University(2020)
 
 2012-2016 Shandong University of science and technology
 
-
+```ruby
+   require 'redcarpet'
+   markdown = Redcarpet.new("Hello World!")
+   puts markdown.to_html
+```
 
 ## Research Interest
 
