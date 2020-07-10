@@ -2,7 +2,7 @@
 ![RS.jpg](https://i.loli.net/2020/07/10/O7BawKt4ryVHGcs.jpg "Sentinel of Wheat")
 # Xiaobin Xu
 
-rm Ph.D Cadidate
+Ph.D Cadidate
 
 State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS)
 Wuhan University(2020)
@@ -15,11 +15,6 @@ Wuhan University(2020)
 2016-2019 Shandong University of science and technology
 
 2012-2016 Shandong University of science and technology
-
-
-   require 'redcarpet'
-   markdown = Redcarpet.new("Hello World!")
-   puts markdown.to_html
 
 
 ## Research Interest
