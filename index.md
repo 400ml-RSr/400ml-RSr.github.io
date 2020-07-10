@@ -30,7 +30,7 @@ I work in the field of agricultural remote sensing, and I focus on the following
 
 ****
 ## Publications
-【3】Xiaobin Xu, Hongchun Zhu, Zhenhai Li, Jianwen Wang & Guijun Yang (2019) A nitrogen spectral response model and nitrogen estimation of summer maize during the entire growth period[J]. International Journal of Remote Sensing, 41(5): 1867-1883;[(**PDF**)](
+【3】Xiaobin Xu, Hongchun Zhu, Zhenhai Li, Jianwen Wang & Guijun Yang (2019) A nitrogen spectral response model and nitrogen estimation of summer maize during the entire growth period[J]. International Journal of Remote Sensing, 41(5): 1867-1883;[(**PDF**)](https://github.com/400ml-RSr/400ml-RSr.github.io/raw/master/A%20nitrogen%20spectral%20response%20model%20and%20nitrogen%20estimation%20of%20summer%20maize%20during%20the%20entire%20growth%20period.pdf)
 
 【2】Xiaobin Xu, Zhenhai Li, Xiaodong Yang, Guijun Yang, Cong Teng, Hongchun Zhu, Shuaibing Liu (2019). Predicting leaf chlorophyll content and its nonuniform vertical distribution of summer maize by using a radiation transfer model[J]. Journal of Applied Remote Sensing.13(3), 034505;[(**PDF**)](
 
