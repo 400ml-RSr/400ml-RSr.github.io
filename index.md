@@ -35,5 +35,5 @@ I work in the field of agricultural remote sensing, and I focus on the following
 
 【2】Xiaobin Xu, Zhenhai Li, Xiaodong Yang, Guijun Yang, Cong Teng, Hongchun Zhu, Shuaibing Liu (2019). Predicting leaf chlorophyll content and its nonuniform vertical distribution of summer maize by using a radiation transfer model[J]. Journal of Applied Remote Sensing.13(3), 034505;
 
-【1】Xiaobin Xu, Cong Teng, Zhenhai Li, et al. (2020). Prediction of Wheat Grain Protein by Coupling Multisource Remote Sensing Imagery and ECMWF Data[J]. Remote Sensing, 12(8): 1349, DOI: 10.3390/rs12081349.
+【1】Xiaobin Xu, Cong Teng, Zhenhai Li, et al. (2020). Prediction of Wheat Grain Protein by Coupling Multisource Remote Sensing Imagery and ECMWF Data[J]. Remote Sensing, 12(8): 1349, DOI: 10.3390/rs12081349.[PDF](https://github.com/400ml-RSr/400ml-RSr.github.io/blob/master/Prediction%20of%20Wheat%20Grain%20Protein%20by%20Coupling%20Multisource%20Remote%20Sensing%20Imagery%20and%20ECMWF%20Data.pdf)
 
