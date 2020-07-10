@@ -1,4 +1,4 @@
-![RS](https://github.com/400ml-RSr/400ml-RSr.github.io/blob/master/RS.jpg "Sentinel of Wheat")
+![RS.jpg](https://github.com/400ml-RSr/400ml-RSr.github.io/blob/master/RS.jpg "Sentinel of Wheat")
 
 # Xiaobin Xu
 
@@ -30,9 +30,9 @@ I work in the field of agricultural remote sensing, and I focus on the following
 
 ****
 ## Publications
-【3】Xiaobin Xu, Hongchun Zhu, Zhenhai Li, Jianwen Wang & Guijun Yang (2019) A nitrogen spectral response model and nitrogen estimation of summer maize during the entire growth period[J]. International Journal of Remote Sensing, 41(5): 1867-1883;
+【3】Xiaobin Xu, Hongchun Zhu, Zhenhai Li, Jianwen Wang & Guijun Yang (2019) A nitrogen spectral response model and nitrogen estimation of summer maize during the entire growth period[J]. International Journal of Remote Sensing, 41(5): 1867-1883;[(**PDF**)](
 
-【2】Xiaobin Xu, Zhenhai Li, Xiaodong Yang, Guijun Yang, Cong Teng, Hongchun Zhu, Shuaibing Liu (2019). Predicting leaf chlorophyll content and its nonuniform vertical distribution of summer maize by using a radiation transfer model[J]. Journal of Applied Remote Sensing.13(3), 034505;
+【2】Xiaobin Xu, Zhenhai Li, Xiaodong Yang, Guijun Yang, Cong Teng, Hongchun Zhu, Shuaibing Liu (2019). Predicting leaf chlorophyll content and its nonuniform vertical distribution of summer maize by using a radiation transfer model[J]. Journal of Applied Remote Sensing.13(3), 034505;[(**PDF**)](
 
 【1】Xiaobin Xu, Cong Teng, Zhenhai Li, et al. (2020). Prediction of Wheat Grain Protein by Coupling Multisource Remote Sensing Imagery and ECMWF Data[J]. Remote Sensing, 12(8): 1349.[(**PDF**)](https://github.com/400ml-RSr/400ml-RSr.github.io/raw/master/Prediction%20of%20Wheat%20Grain%20Protein%20by%20Coupling%20Multisource%20Remote%20Sensing%20Imagery%20and%20ECMWF%20Data.pdf)
 
