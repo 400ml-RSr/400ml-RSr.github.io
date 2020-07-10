@@ -7,8 +7,8 @@ Ph.D Cadidate
 State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS),
 Wuhan University(2020)
 
+![地球1.gif](https://i.loli.net/2020/07/10/PjstCmngBf49lGW.gif) 
 ## Education
-![卫星地球.gif](https://i.loli.net/2020/07/10/5id1mE2cn7GwVtN.gif)
 2019-2020 Institute of crop science, Chinese Academy of Agricultural Sciences（CAAS）
 
 2017-2019 National Engineering Research Center for Information Technology in Agriculture（NERCITA）
@@ -18,8 +18,7 @@ Wuhan University(2020)
 2012-2016 Shandong University of science and technology
 
 ****
-## Research Interest ![卫星地球.gif](https://i.loli.net/2020/07/10/5id1mE2cn7GwVtN.gif)
-
+## Research Interest 
 I work in the field of agricultural remote sensing, and I focus on the following research topics: 
 
 **·** Radiative transfer model
