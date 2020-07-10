@@ -32,4 +32,4 @@ I work in the field of agricultural remote sensing, and I focus on the following
 
 【1】Xiaobin Xu, Cong Teng, Zhenhai Li, et al. (2020). Prediction of Wheat Grain Protein by Coupling Multisource Remote Sensing Imagery and ECMWF Data[J]. ***Remote Sensing***, 12(8): 1349.[(**PDF**)](https://github.com/400ml-RSr/400ml-RSr.github.io/raw/master/Prediction%20of%20Wheat%20Grain%20Protein%20by%20Coupling%20Multisource%20Remote%20Sensing%20Imagery%20and%20ECMWF%20Data.pdf)
 
-<div align=center><img width = '250' height ='150' src ="https://i.loli.net/2020/07/10/PjstCmngBf49lGW.gif"/></div>
+<div align=center><img width = '450' height ='400' src ="https://i.loli.net/2020/07/10/PjstCmngBf49lGW.gif"/></div>
