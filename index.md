@@ -8,6 +8,7 @@ State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensi
 Wuhan University(2020)
 
 ![地球1.gif](https://i.loli.net/2020/07/10/PjstCmngBf49lGW.gif) 
+<div align=center><img width = '150' height ='150' src ="https://i.loli.net/2020/07/10/PjstCmngBf49lGW.gif"/></div>
 ## Education
 2019-2020 Institute of crop science, Chinese Academy of Agricultural Sciences（CAAS）
 
