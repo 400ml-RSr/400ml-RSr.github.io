@@ -7,6 +7,7 @@ Ph.D Cadidate
 State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS),
 Wuhan University(2020)
 
+## Education
 
 2019-2020 Institute of crop science, Chinese Academy of Agricultural Sciences（CAAS）
 
@@ -25,6 +26,7 @@ I work in the field of agricultural remote sensing, and I focus on the following
 
 **·** Quantitative remote sensing monitoring of crop parameters
 
+****
 ## Publications
 【3】Xiaobin Xu, Hongchun Zhu, Zhenhai Li, Jianwen Wang & Guijun Yang (2019) A nitrogen spectral response model and nitrogen estimation of summer maize during the entire growth period[J]. International Journal of Remote Sensing, 41(5): 1867-1883;[(**PDF**)](https://github.com/400ml-RSr/400ml-RSr.github.io/raw/master/A%20nitrogen%20spectral%20response%20model%20and%20nitrogen%20estimation%20of%20summer%20maize%20during%20the%20entire%20growth%20period.pdf)
 
