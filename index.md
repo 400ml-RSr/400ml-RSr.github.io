@@ -1,5 +1,5 @@
-![RS.jpg](https://github.com/400ml-RSr/400ml-RSr.github.io/blob/master/RS.jpg "Sentinel of Wheat")
-![RS.jpg](https://i.loli.net/2020/07/10/O7BawKt4ryVHGcs.jpg)
+
+![RS.jpg](https://i.loli.net/2020/07/10/O7BawKt4ryVHGcs.jpg "Sentinel of Wheat")
 # Xiaobin Xu
 
 Ph.D Cadidate
@@ -8,8 +8,6 @@ State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensi
 Wuhan University(2020)
 
 
-
-```markdown
 2019-2020 Institute of crop science, Chinese Academy of Agricultural Sciences（CAAS）
 
 2017-2019 National Engineering Research Center for Information Technology in Agriculture（NERCITA）
@@ -17,16 +15,16 @@ Wuhan University(2020)
 2016-2019 Shandong University of science and technology
 
 2012-2016 Shandong University of science and technology
-```
+
 
 
 ## Research Interest
 
 I work in the field of agricultural remote sensing, and I focus on the following research topics: 
 
-·Radiative transfer model
+**·** Radiative transfer model
 
-·Quantitative remote sensing monitoring of crop parameters
+**·** Quantitative remote sensing monitoring of crop parameters
 
 ****
 ## Publications
