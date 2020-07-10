@@ -6,7 +6,7 @@ Ph.D Cadidate
 
 State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS),
 Wuhan University(2020)
-![RS.jpg](https://i.loli.net/2020/07/10/O7BawKt4ryVHGcs.jpg "Sentinel of Wheat")
+![RS.jpg](https://github.com/400ml-RSr/400ml-RSr.github.io/blob/master/%E5%8D%AB%E6%98%9F%E5%9C%B0%E7%90%83.gif)
 ## Education
 
 2019-2020 Institute of crop science, Chinese Academy of Agricultural Sciences（CAAS）
