@@ -1,4 +1,10 @@
 
+---
+layout: home
+---
+
+
+
 ![RS.jpg](https://i.loli.net/2020/07/10/O7BawKt4ryVHGcs.jpg "Sentinel of Wheat")
 # Xiaobin Xu
 
